@@ -1,0 +1,84 @@
+{
+  "Movies":[
+    {
+      "name":"Marvel cinematic universe",
+      "total_gros":17529133715
+    },
+    {
+      "name":"Star Wars",
+      "total_gros":9241699398
+    },
+    {
+      "name":"Harry Potter/Wizarding World",
+      "total_gros":9110301548
+    },
+    {
+      "name":"James Bond",
+      "total_gros":7040275645
+    },
+    {
+      "name":"The Lord of the Rings/The Hobbit",
+      "total_gros":5884488087
+    },
+    {
+      "name":"X-Men",
+      "total_gros":5733103763
+    },
+    {
+      "name":"Spider-Man",
+      "total_gros":5701419312
+    },
+    {
+      "name":"The Fast and the Furious",
+      "total_gros":5134895344
+    },
+    {
+      "name":"Batman",
+      "total_gros":4995812576
+    },
+    {
+      "name":"Jurassic Park",
+      "total_gros":4994016979
+    },
+    {
+      "name":"Avengers",
+      "total_gros":4971904413
+    },
+    {
+      "name":"Pirates of the Caribbean",
+      "total_gros":4524439761
+    },
+    {
+      "name":"transformers",
+      "total_gros":4385136428
+    },
+    {
+      "name":"DC Extended Universe",
+      "total_gros":3886298638
+    },
+    {
+      "name":"Despicable Me",
+      "total_gros":3708073676
+    },
+    {
+      "name":"Mission Impossible",
+      "total_gros":3570379575
+    },
+    {
+      "name":"Shrek",
+      "total_gros":3510794482
+    },
+    {
+      "name":"The Twilight Saga",
+      "total_gros":3346157056
+    },
+    {
+      "name":"Ice Age",
+      "total_gros":3217251681
+    },
+    {
+      "name":"The Hunger Games",
+      "total_gros":2968191442
+    }
+  ]
+}
